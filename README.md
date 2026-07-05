@@ -1,5 +1,4 @@
 # AI-Research-Paper-Intelligence-Platform
-# AI Research Paper Intelligence System
 
 An NLP-powered system for semantic research paper retrieval, automated summarization, keyword extraction, and technical entity recognition using Transformer models.
 
